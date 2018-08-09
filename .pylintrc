@@ -1,0 +1,19 @@
+[MESSAGES CONTROL]
+disable=missing-docstring, redefined-builtin
+
+[REPORTS]
+reports=no
+
+[FORMAT]
+expected-line-ending-format=LF
+indent-after-paren=2
+indent-string='  '
+max-line-length=90
+
+[BASIC]
+const-naming-style=any
+good-names=
+
+[SIMILARITIES]
+ignore-comments=no
+ignore-docstrings=no
